@@ -241,3 +241,12 @@ input[type="radio"][id="green"]:checked ~ .blue, input[type="radio"][id="green"]
     -o-border-radius: 50%;
     border-radius: 50%;
   }
+  .form{
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .form p{
+    display: contents;
+  }
